@@ -3,19 +3,19 @@
         "id": 1,
         "name": "Abhijetha R",
         "education": "Engineering",
-        "Academic Performance": "Good",
+        "Academic Performance":"Good",
         "Semester1": 7.5,
-        "Semester2": 7.5,
-        "Semester3": 7.5,
+        "Semester2": 7.3,
+        "Semester3": 7.7,
         "Semester4": 7.5,
-        "Semester5": 7.5,
-        "Semester6": 7.5,
-        "Semester7": 7.5,
-        "Semester8": 7.5,
-        "10th_percentage": 90.0,
-        "12th_percentage": 85.0,
-        "skills": "JavaScript, CSS, Java, Python, React-Js",
-        "contact": "kimberly42@example.org",
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 72.4,
+        "12th_percentage": 83.69,
+        "skills": "Poster Making, Leadership, TypeWriting",
+        "contact": "abhimoni120704@gmail.com ",
         "image": "images/abi.jpg",
         "certifications": [
             {
@@ -38,40 +38,40 @@
         "extracurricularActivities": {
             "achievements": [
                 {
-                "name": "Winner",
-                    "description": "Won the regional coding competition.",
+                "name": "Certificate of Appreciation",
+                    "description": "Attended National Science Day Webinar On EveryDay is Science Day",
                     "image": "certifications/abi5.jpg"
                 },
                 {
-                    "name": "Tech Symposium Presenter",
-                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "name": "Certificate of Completion",
+                    "description": "Introduction to Data Science",
                     "image": "certifications/abi6.jpg"
                 }
             ],           "onlineCertifications": [
                 {
-                    "name": "Web Development Fundamentals",
-                    "description": "Completed an online course on web development.",
+                    "name": "Certificate of Completion",
+                    "description": "Google Display Campaign",
                     "image": "certifications/abi7.jpg"
                 }
             ],
             "sports": [
                 {
-                    "name": "Basketball Team Captain",
-                    "description": "Led the school's basketball team as captain.",
+                    "name": "Certificate of Completion",
+                    "description": "Introduction to Digital Marketing",
                     "image": "certifications/abi8.jpg"
                 }
             ],
             "symposiums": [
                 {
-                    "name": "Tech Symposium Presenter",
-                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "name": "IBM PY0101EN Certificate",
+                    "description": "Reciving a Passing Grade and was awarded Cognitive class Certificate",
                     "image": "certifications/abi9.jpg"
                 }
             ],
             "Internship": [
                 {
-                    "name": "Internship at Company XYZ",
-                    "description": "Completed a summer internship as a software developer.",
+                    "name": "Internship at RETECH",
+                    "description": "EMBEDDED SYSTEM",
                     "image": "certifications/abi10.jpg"
                 }
             ],
@@ -94,18 +94,18 @@
         "name": "Aginas",
         "education": "Engineering",
         "Academic Performance": "Good",
-        "Sem1": 7.5,
-        "Sem2": 7.5,
-        "Sem3": 7.5,
-        "Sem4": 7.5,
-        "Sem5": 7.5,
-        "Sem6": 7.5,
-        "Sem7": 7.5,
-        "Sem8": 7.5,
-        "10th_percentage": 90.0,
-        "12th_percentage": 85.0,
-        "skills": "JavaScript, CSS, Java, Python, React-Js",
-        "contact": "kimberly42@example.org",
+        "Semester1": 9.3,
+        "Semester2": 9.3,
+        "Semester3": 8.7,
+        "Semester4": 9.3,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 91,
+        "12th_percentage": 91,
+        "skills": "Adobe Illustrator , Adobe Photoshop, Python, Html, CSS, Basics in Javascript, Proficient in AI/ML Libraries and also in  Data science Libraries, Ms-Office.",
+        "contact": "aginasnathan2109@gmail.com",
         "image": "images/Aginas.png",
         "certifications": [
             {
@@ -128,41 +128,41 @@
         "extracurricularActivities": {
             "achievements": [
                 {
-                    "name": "First Place in Coding",
-                    "description": "Won the regional coding competition.",
+                    "name": "Certifacte of Participation",
+                    "description": "A Research Exploration for Noval & Eco-Friendly Waste Handling Techniques ",
                     "image": "certifications/Aginas5.jpeg"
                 },
                 {
-                    "name": "Tech Symposium Presenter",
-                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "name": "Course Certification",
+                    "description": "Crash Course On Python",
                     "image": "certifications/Aginas6.jpeg"
                 }
             ],
             "onlineCertifications": [
                 {
-                    "name": "Web Development Fundamentals",
-                    "description": "Completed an online course on web development.",
+                    "name": "Secured Third Place",
+                    "description": "MEDBYTE Event Conducted by Yuva Club of Jeppiaar Engineering Collage",
                     "image": "certifications/Aginas7.jpeg"
                 }
             ],
             "sports": [
                 {
-                    "name": "Basketball Team Captain",
-                    "description": "Led the school's basketball team as captain.",
+                    "name": "Teachnook Certificate",
+                    "description": "Successfully Completed Artifical Intelligence",
                     "image": "certifications/Aginas8.jpeg"
                 }
             ],
             "symposiums": [
                 {
-                    "name": "Tech Symposium Presenter",
-                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "name": "Secured Second Place",
+                    "description": "Won Second Place in the event Paper Presentation at Easwari Enginerring Collage",
                     "image": "certifications/Aginas1.jpeg"
                 }
             ],
             "Internship": [
                 {
-                    "name": "Internship at Company XYZ",
-                    "description": "Completed a summer internship as a software developer.",
+                    "name": "Certificate of Merit",
+                    "description": "Secured Second Place in Paper Presentation at Mohamed Sathak A.J Collage of Engineering",
                     "image": "certifications/Aginas2.jpeg"
                 }
             ],
@@ -185,18 +185,18 @@
         "name": "Kannan G",
         "education": "Engineering",
         "Academic Performance": "Good",
-        "Semester1": 7.5,
-        "Semester2": 7.5,
-        "Semester3": 7.5,
-        "Semester4": 7.5,
-        "Semester5": 7.5,
-        "Semester6": 7.5,
-        "Semester7": 7.5,
-        "Semester8": 7.5,
-        "10th_percentage": 90.0,
-        "12th_percentage": 85.0,
-        "skills": "JavaScript, CSS, Java, Python, React-Js",
-        "contact": "kimberly42@example.org",
+        "Semester1": 8.856,
+        "Semester2": 8.304,
+        "Semester3": 8.6,
+        "Semester4": 9.1,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 86.6,
+        "12th_percentage": 90.7,
+        "skills": "Creativity, Python Language, C Language, Art & Craft",
+        "contact": "kannandk2803@gmail.com",
         "image": "images/kannan.png",
         "certifications": [
             {
@@ -219,40 +219,40 @@
         "extracurricularActivities": {
             "achievements": [
                 {
-                "name": "Winner",
-                    "description": "Won the regional coding competition.",
+                "name": "Certificate of Completion",
+                    "description": "Learn How to Build an AI",
                     "image": "certifications/kan5.jpg"
                 },
                 {
-                    "name": "Tech Symposium Presenter",
-                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "name": "Certifacte of Participation",
+                    "description": "Online Webinar About Will AI-rule or Ruin Our Future",
                     "image": "certifications/kan6.jpg"
                 }
             ],           "onlineCertifications": [
                 {
-                    "name": "Web Development Fundamentals",
-                    "description": "Completed an online course on web development.",
+                    "name": "Internship at Pantech e-Learning",
+                    "description": "About Embedded System",
                     "image": "certifications/kan7.jpg"
                 }
             ],
             "sports": [
                 {
-                    "name": "Basketball Team Captain",
-                    "description": "Led the school's basketball team as captain.",
+                    "name": "Internship at All Indian Radio",
+                    "description": "In-plant Traning Programme at the Studio and Trasnsmitting Center of All Indian Radio",
                     "image": "certifications/kan8.jpg"
                 }
             ],
             "symposiums": [
                 {
-                    "name": "Tech Symposium Presenter",
-                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "name": "Project Completion Certificate",
+                    "description": "Mini Project in the Technology of ROBOT USING MICRO CONTROLLER",
                     "image": "certifications/kan9.jpg"
                 }
             ],
             "Internship": [
                 {
-                    "name": "Internship at Company XYZ",
-                    "description": "Completed a summer internship as a software developer.",
+                    "name": "Certificate of Completion",
+                    "description": "Python Basic Programs",
                     "image": "certifications/kan10.jpg"
                 }
             ],
@@ -275,18 +275,18 @@
         "name": "Jothi R",
         "education": "Engineering",
         "Academic Performance": "Good",
-        "Semester1": 7.5,
-        "Semester2": 7.5,
-        "Semester3": 7.5,
+        "Semester1": 7.0,
+        "Semester2": 7.09,
+        "Semester3": 7.42,
         "Semester4": 7.5,
-        "Semester5": 7.5,
-        "Semester6": 7.5,
-        "Semester7": 7.5,
-        "Semester8": 7.5,
-        "10th_percentage": 90.0,
-        "12th_percentage": 85.0,
-        "skills": "JavaScript, CSS, Java, Python, React-Js",
-        "contact": "kimberly42@example.org",
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 62.8,
+        "12th_percentage": 72,
+        "skills": "Basic python",
+        "contact": "jothiramesh381@gmail.com",
         "image": "images/jothi.jpg",
         "certifications": [
             {
@@ -309,41 +309,41 @@
         "extracurricularActivities": {
             "achievements": [
                 {
-                "name": "Winner",
-                    "description": "Won the regional coding competition.",
+                "name": "Certificate of Completion",
+                    "description": "Advanced Cyber Security - Threats and Governance",
                     "image": "certifications/jo1.jpg"
                 },
                 {
-                    "name": "Tech Symposium Presenter",
-                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "name": "Internship at RETECH",
+                    "description": "Intenship Traning In EMBEDDED SYSTEM",
                     "image": "certifications/jo2.jpg"
                 }
             ],           "onlineCertifications": [
                 {
-                    "name": "Web Development Fundamentals",
-                    "description": "Completed an online course on web development.",
+                    "name": "Certificate of Completion",
+                    "description": "Python Fundamentals for Begineers",
                     "image": "certifications/jo3.jpg"
                 }
             ],
             "sports": [
                 {
-                    "name": "Basketball Team Captain",
-                    "description": "Led the school's basketball team as captain.",
+                    "name": "Certifacte of Participation",
+                    "description": "IET Chennai Local Network in ISS 5.0",
                     "image": "certifications/jo4.jpg"
                 }
             ],
             "symposiums": [
                 {
-                    "name": "Tech Symposium Presenter",
-                    "description": "Presented a talk on emerging technologies at a tech symposium.",
-                    "image": "certifications/"
+                    "name": "Will Update",
+                    "description": "",
+                    "image": "certifications/null.jpg"
                 }
             ],
             "Internship": [
                 {
-                    "name": "Internship at Company XYZ",
-                    "description": "Completed a summer internship as a software developer.",
-                    "image": "certifications/"
+                    "name": "Will Update",
+                    "description": "",
+                    "image": "certifications/null.jpg"
                 }
             ],
             "Needed": [
@@ -362,21 +362,21 @@
     },
     {
         "id": 5,
-        "name": "Jeevanathi",
+        "name": "Jeevanathi S",
         "education": "Engineering",
         "Academic Performance": "Good",
-        "Semester1": 7.5,
+        "Semester1": 7.250,
         "Semester2": 7.5,
-        "Semester3": 7.5,
-        "Semester4": 7.5,
-        "Semester5": 7.5,
-        "Semester6": 7.5,
-        "Semester7": 7.5,
-        "Semester8": 7.5,
-        "10th_percentage": 90.0,
-        "12th_percentage": 85.0,
-        "skills": "JavaScript, CSS, Java, Python, React-Js",
-        "contact": "kimberly42@example.org",
+        "Semester3": 7.9047,
+        "Semester4": null,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 73.4,
+        "12th_percentage": 82.167,
+        "skills": "Poster editing, leadership qualities",
+        "contact": "jeevanathis208@gmail.com",
         "image": "images/jee.png",
         "certifications": [
             {
@@ -399,40 +399,40 @@
         "extracurricularActivities": {
             "achievements": [
                 {
-                "name": "Winner",
-                    "description": "Won the regional coding competition.",
+                "name": "Certificate of Completion",
+                    "description": "Ethical Hacking For Beginners",
                     "image": "certifications/jee5.jpg"
                 },
                 {
-                    "name": "Tech Symposium Presenter",
-                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "name": "Certificate of Completion",
+                    "description": "Successfully Completed Video Editing Basics",
                     "image": "certifications/jee6.jpg"
                 }
             ],           "onlineCertifications": [
                 {
-                    "name": "Web Development Fundamentals",
-                    "description": "Completed an online course on web development.",
+                    "name": "Certificate of Appreciation",
+                    "description": "Voluntary Blood Donation Camp held at Jeppiaar Enginnering Collage",
                     "image": "certifications/jee1.jpg"
                 }
             ],
             "sports": [
                 {
-                    "name": "Basketball Team Captain",
-                    "description": "Led the school's basketball team as captain.",
+                    "name": "Internship at All Indian Radio",
+                    "description": "In-plant Traning Programme at the Studio and Trasnsmitting Center of All Indian Radio",
                     "image": "certifications/jee2.jpg"
                 }
             ],
             "symposiums": [
                 {
-                    "name": "Tech Symposium Presenter",
-                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "name": "NCC",
+                    "description": "Attended the CATC-CUM_RDC LAUNCH TRAINIG CAPM held at Dhanalakshmi Collage of Enginnering",
                     "image": "certifications/jee3.jpg"
                 }
             ],
             "Internship": [
                 {
-                    "name": "Internship at Company XYZ",
-                    "description": "Completed a summer internship as a software developer.",
+                    "name": "1 (TN) COMP TECH COY NCC",
+                    "description": "Participated in CATC cum pre RDC II Held at Airforce Station Tambaram",
                     "image": "certifications/jee4.jpg"
                 }
             ],
@@ -456,17 +456,17 @@
         "education": "Engineering",
         "Academic Performance": "Good",
         "Semester1": 7.5,
-        "Semester2": 7.5,
-        "Semester3": 7.5,
+        "Semester2": 7.49,
+        "Semester3": 7.83,
         "Semester4": 7.5,
         "Semester5": 7.5,
         "Semester6": 7.5,
         "Semester7": 7.5,
         "Semester8": 7.5,
-        "10th_percentage": 90.0,
-        "12th_percentage": 85.0,
-        "skills": "JavaScript, CSS, Java, Python, React-Js",
-        "contact": "kimberly42@example.org",
+        "10th_percentage": 76.2,
+        "12th_percentage": 58.3,
+        "skills": "Python programming,C programming,Creative skills,Art & Crafts.",
+        "contact": "dhivyakarthik1820@gmail.com",
         "image": "images/divya.png",
         "certifications": [
             {
@@ -489,40 +489,40 @@
         "extracurricularActivities": {
             "achievements": [
                 {
-                "name": "Winner",
-                    "description": "Won the regional coding competition.",
+                "name": "Certifacte of Participation",
+                    "description": "Online Webinar About Will AI-rule or Ruin Our Future",
                     "image": "certifications/div5.jpg"
                 },
                 {
-                    "name": "Tech Symposium Presenter",
-                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "name": "Certificate of Appreciation",
+                    "description": "Online Quiz Competition",
                     "image": "certifications/div6.jpg"
                 }
             ],           "onlineCertifications": [
                 {
-                    "name": "Web Development Fundamentals",
-                    "description": "Completed an online course on web development.",
+                    "name": "Certificate of Completion",
+                    "description": "For Successfully Becoming the Python Developer",
                     "image": "certifications/div7.jpg"
                 }
             ],
             "sports": [
                 {
-                    "name": "Basketball Team Captain",
-                    "description": "Led the school's basketball team as captain.",
+                    "name": "Certificate of Completion",
+                    "description": "Completed and learning about Pandas Libaray In Python",
                     "image": "certifications/div8.jpg"
                 }
             ],
             "symposiums": [
                 {
-                    "name": "Tech Symposium Presenter",
-                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "name": "Certifacte of Participation",
+                    "description": "Attended Online Webinar BEYOND SCARS",
                     "image": "certifications/div9.jpg"
                 }
             ],
             "Internship": [
                 {
-                    "name": "Internship at Company XYZ",
-                    "description": "Completed a summer internship as a software developer.",
+                    "name": "Project Completion Certificate",
+                    "description": "Mini Project in the Technology of ROBOT USING MICRO CONTROLLER",
                     "image": "certifications/div10.jpg"
                 }
             ],
@@ -545,18 +545,18 @@
         "name": "Kawiya B",
         "education": "Engineering",
         "Academic Performance": "Good",
-        "Semester1": 7.5,
-        "Semester2": 7.5,
-        "Semester3": 7.5,
-        "Semester4": 7.5,
-        "Semester5": 7.5,
-        "Semester6": 7.5,
-        "Semester7": 7.5,
-        "Semester8": 7.5,
-        "10th_percentage": 90.0,
-        "12th_percentage": 85.0,
+        "Semester1": 7.0,
+        "Semester2": 7.125,
+        "Semester3": 7.765,
+        "Semester4": null,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 71.2,
+        "12th_percentage": 77.333,
         "skills": "JavaScript, CSS, Java, Python, React-Js",
-        "contact": "kimberly42@example.org",
+        "contact": "b.kawiya12b213@gmail.com",
         "image": "images/kaw.jpg",
         "certifications": [
             {
@@ -579,40 +579,40 @@
         "extracurricularActivities": {
             "achievements": [
                 {
-                "name": "Winner",
-                    "description": "Won the regional coding competition.",
-                    "image": "certifications/null.jpg"
+                "name": "Internship at RETECH",
+                    "description": "Intenship Traning In EMBEDDED SYSTEM",
+                    "image": "certifications/kaw1.jpg"
                 },
                 {
-                    "name": "Tech Symposium Presenter",
-                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "name": "",
+                    "description": "",
                     "image": "certifications/null.jpg"
                 }
             ],           "onlineCertifications": [
                 {
-                    "name": "Web Development Fundamentals",
-                    "description": "Completed an online course on web development.",
+                    "name": "",
+                    "description": "",
                     "image": "certifications/null.jpg"
                 }
             ],
             "sports": [
                 {
-                    "name": "Basketball Team Captain",
-                    "description": "Led the school's basketball team as captain.",
+                    "name": "",
+                    "description": "",
                     "image": "certifications/null.jpg"
                 }
             ],
             "symposiums": [
                 {
-                    "name": "Tech Symposium Presenter",
-                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "name": "",
+                    "description": "",
                     "image": "certifications/null.jpg"
                 }
             ],
             "Internship": [
                 {
-                    "name": "Internship at Company XYZ",
-                    "description": "Completed a summer internship as a software developer.",
+                    "name": "",
+                    "description": "",
                     "image": "certifications/null.jpg"
                 }
             ],
@@ -635,18 +635,18 @@
         "name": "Jeevitha R",
         "education": "Engineering",
         "Academic Performance": "Good",
-        "Semester1": 7.5,
-        "Semester2": 7.5,
-        "Semester3": 7.5,
+        "Semester1": 7.923,
+        "Semester2": 7.154,
+        "Semester3": 8.036,
         "Semester4": 7.5,
         "Semester5": 7.5,
         "Semester6": 7.5,
         "Semester7": 7.5,
         "Semester8": 7.5,
-        "10th_percentage": 90.0,
-        "12th_percentage": 85.0,
+        "10th_percentage": 69.2,
+        "12th_percentage": 80.15,
         "skills": "JavaScript, CSS, Java, Python, React-Js",
-        "contact": "kimberly42@example.org",
+        "contact": "Jeevitharaghu11103@gmail.com",
         "image": "images/je.png",
         "certifications": [
             {
@@ -669,40 +669,40 @@
         "extracurricularActivities": {
             "achievements": [
                 {
-                "name": "Winner",
-                    "description": "Won the regional coding competition.",
+                "name": "Certifacte of Participation",
+                    "description": "State of the Art Subject and Attitude Matters for Product Development and Entrepreneurship",
                     "image": "certifications/je1.jpg"
                 },
                 {
-                    "name": "Tech Symposium Presenter",
-                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "name": "",
+                    "description": "",
                     "image": "certifications/null.jpg"
                 }
             ],           "onlineCertifications": [
                 {
-                    "name": "Web Development Fundamentals",
-                    "description": "Completed an online course on web development.",
+                    "name": "",
+                    "description": "",
                     "image": "certifications/null.jpg"
                 }
             ],
             "sports": [
                 {
-                    "name": "Basketball Team Captain",
-                    "description": "Led the school's basketball team as captain.",
+                    "name": "",
+                    "description": "",
                     "image": "certifications/null.jpg"
                 }
             ],
             "symposiums": [
                 {
-                    "name": "Tech Symposium Presenter",
-                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "name": "",
+                    "description": "",
                     "image": "certifications/null.jpg"
                 }
             ],
             "Internship": [
                 {
-                    "name": "Internship at Company XYZ",
-                    "description": "Completed a summer internship as a software developer.",
+                    "name": "",
+                    "description": "",
                     "image": "certifications/null.jpg"
                 }
             ],
@@ -725,18 +725,18 @@
         "name": "Deechana J",
         "education": "Engineering",
         "Academic Performance": "Good",
-        "Semester1": 7.5,
-        "Semester2": 7.5,
-        "Semester3": 7.5,
-        "Semester4": 7.5,
-        "Semester5": 7.5,
-        "Semester6": 7.5,
-        "Semester7": 7.5,
-        "Semester8": 7.5,
-        "10th_percentage": 90.0,
-        "12th_percentage": 85.0,
-        "skills": "JavaScript, CSS, Java, Python, React-Js",
-        "contact": "kimberly42@example.org",
+        "Semester1": 7.750,
+        "Semester2": 7.08,
+        "Semester3": 7.72,
+        "Semester4": 7,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 87.4,
+        "12th_percentage": 88.958,
+        "skills": "Poster editor",
+        "contact": "deechanajayapandi@gmail.com",
         "image": "images/dee.png",
         "certifications": [
             {
@@ -759,40 +759,40 @@
         "extracurricularActivities": {
             "achievements": [
                 {
-                "name": "Winner",
-                    "description": "Won the regional coding competition.",
+                "name": "BOSCH Trainig Program",
+                    "description": "Executiv Training in auto Electical Vechile air Conditioning and residential air conditioning",
                     "image": "certifications/dee1.jpg"
                 },
                 {
-                    "name": "Tech Symposium Presenter",
-                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "name": "Internship at All Indian Radio",
+                    "description": "In-plant Traning Programme at the Studio and Trasnsmitting Center of All Indian Radio",
                     "image": "certifications/dee2.jpg"
                 }
             ],           "onlineCertifications": [
                 {
-                    "name": "Web Development Fundamentals",
-                    "description": "Completed an online course on web development.",
+                    "name": "NCC",
+                    "description": "Naval Technical Attachment Camp Held INS Valsur , Jamnagar",
                     "image": "certifications/dee3.jpg"
                 }
             ],
             "sports": [
                 {
-                    "name": "Basketball Team Captain",
-                    "description": "Led the school's basketball team as captain.",
+                    "name": "",
+                    "description": "",
                     "image": "certifications/null.jpg"
                 }
             ],
             "symposiums": [
                 {
-                    "name": "Tech Symposium Presenter",
-                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "name": "",
+                    "description": "",
                     "image": "certifications/null.jpg"
                 }
             ],
             "Internship": [
                 {
-                    "name": "Internship at Company XYZ",
-                    "description": "Completed a summer internship as a software developer.",
+                    "name": "",
+                    "description": "",
                     "image": "certifications/null.jpg"
                 }
             ],
@@ -815,18 +815,18 @@
         "name": "Anushiya M",
         "education": "Engineering",
         "Academic Performance": "Good",
-        "Semester1": 7.5,
-        "Semester2": 7.5,
-        "Semester3": 7.5,
-        "Semester4": 7.5,
-        "Semester5": 7.5,
-        "Semester6": 7.5,
-        "Semester7": 7.5,
-        "Semester8": 7.5,
-        "10th_percentage": 90.0,
-        "12th_percentage": 85.0,
-        "skills": "JavaScript, CSS, Java, Python, React-Js",
-        "contact": "kimberly42@example.org",
+        "Semester1": 8.30,
+        "Semester2": 8.609,        
+        "Semester3": 9.0,
+        "Semester4": 9.5,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 85.4,
+        "12th_percentage": 90.67,
+        "skills": "Leadership quality, Canva designing,basic problem solving using python. Currently learning sql.",
+        "contact": "manushiyaece@gmail.com",
         "image": "images/null.jpg",
         "certifications": [
             {
@@ -849,41 +849,41 @@
         "extracurricularActivities": {
             "achievements": [
                 {
-                "name": "Winner",
-                    "description": "Won the regional coding competition.",
+                "name": "Certifacte of Participation",
+                    "description": "Hands-on With Internet of Things(IOT)",
                     "image": "certifications/anu5.jpg"
                 },
                 {
-                    "name": "Tech Symposium Presenter",
-                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "name": "Certificate of Completion",
+                    "description": "Learning Python ",
                     "image": "certifications/anu6.jpg"
                 }
             ],           "onlineCertifications": [
                 {
-                    "name": "Web Development Fundamentals",
-                    "description": "Completed an online course on web development.",
-                    "image": "certifications/null.jpg"
+                    "name": "Certificate of Completion",
+                    "description": "Python Fundamentals for Begineers",
+                    "image": "certifications/anu4.jpg"
                 }
             ],
             "sports": [
                 {
-                    "name": "Basketball Team Captain",
-                    "description": "Led the school's basketball team as captain.",
-                    "image": "certifications/null.jpg"
+                    "name": "SkillUp",
+                    "description": "Introduction to Artifical Intelligence",
+                    "image": "certifications/anu3.jpg"
                 }
             ],
             "symposiums": [
                 {
-                    "name": "Tech Symposium Presenter",
-                    "description": "Presented a talk on emerging technologies at a tech symposium.",
-                    "image": "certifications/null.jpg"
+                    "name": "Certificate of Completion",
+                    "description": "Data Structures In C",
+                    "image": "certifications/anu2.jpg"
                 }
             ],
             "Internship": [
                 {
-                    "name": "Internship at Company XYZ",
-                    "description": "Completed a summer internship as a software developer.",
-                    "image": "certifications/null.jpg"
+                    "name": "Course Certification",
+                    "description": "Crash Course On Python",
+                    "image": "certifications/anu1.jpg"
                 }
             ],
             "Needed": [
@@ -891,6 +891,906 @@
                     "name": "Needed",
                     "description": "Description for new activity 1.",
                     "image": "certifications/"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 11,
+        "name": "Vishnu Priya R",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.750,
+        "Semester2": 7.652,        
+        "Semester3": 7.88,
+        "Semester4": 7.8,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 84.6,
+        "12th_percentage": 90.5,
+        "skills": "Basic excel, Python , C , Poster Designing",
+        "contact": "Vishnupriyabharathi0609@gmail.com",
+        "image": "images/vishnu.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/anu1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/anu2.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/anu3.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/anu4.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "Certifacte of Participation",
+                    "description": "Hands-on With Internet of Things(IOT)",
+                    "image": "certifications/anu5.jpg"
+                },
+                {
+                    "name": "Certificate of Completion",
+                    "description": "Learning Python ",
+                    "image": "certifications/anu6.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "Certificate of Completion",
+                    "description": "Python Fundamentals for Begineers",
+                    "image": "certifications/anu4.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "SkillUp",
+                    "description": "Introduction to Artifical Intelligence",
+                    "image": "certifications/anu3.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "Certificate of Completion",
+                    "description": "Data Structures In C",
+                    "image": "certifications/anu2.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "Course Certification",
+                    "description": "Crash Course On Python",
+                    "image": "certifications/anu1.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 1.",
+                    "image": "certifications/"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 12,
+        "name": "Vishnu Oviya V K",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.750,
+        "Semester2": 7.652,        
+        "Semester3": 7.88,
+        "Semester4": 7.8,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 91.8,
+        "12th_percentage": 92,
+        "skills": "Basic excel, Python , C , Poster Designing",
+        "contact": "vishnuoviya1510@gmail.com",
+        "image": "images/oviya.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "Certifacte of Participation",
+                    "description": "Hands-on With Internet of Things(IOT)",
+                    "image": "certifications/ov1.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 13,
+        "name": "Surubika J",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.250,
+        "Semester2": 8.087,        
+        "Semester3": 7.88,
+        "Semester4": 9.6,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 80.2,
+        "12th_percentage": 85.3,
+        "skills": "Basic excel, Python , C , Poster Designing",
+        "contact": "jegapriya1983@gmail.com",
+        "image": "images/sur.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "Certifacte of Participation",
+                    "description": "Hands-on With Internet of Things(IOT)",
+                    "image": "certifications/ov1.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 14,
+        "name": "SUREKA R",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.55,
+        "Semester2": 8,        
+        "Semester3": 7.88,
+        "Semester4": 7.88,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 86,
+        "12th_percentage": 89,
+        "skills": "Basic excel, Python , C , Poster Designing",
+        "contact": "surekaraghavan44@gmail.com",
+        "image": "images/sure.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 15,
+        "name": "Vishal Christopher J",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.550,
+        "Semester2": 8.130,        
+        "Semester3": 8,
+        "Semester4": 7.88,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 81,
+        "12th_percentage": 86,
+        "skills": "Basic excel, Python , C , Poster Designing",
+        "contact": "surekaraghavan44@gmail.com",
+        "image": "images/vis.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/vis1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "Certificate of Completion",
+                    "description": "Python Basic Programs",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 16,
+        "name": "Priya R",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 6.5,
+        "Semester2": 7.3,        
+        "Semester3": 8.23,
+        "Semester4": 7.88,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 73,
+        "12th_percentage": 84,
+        "skills": "Basic excel, Python , C , Poster Designing",
+        "contact": "priyapriya58675@gmail.com",
+        "image": "images/pri.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 17,
+        "name": "SAKTHI MAHIMA B ",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.882,
+        "Semester2": 7.800,        
+        "Semester3": 7.884,
+        "Semester4": 7.88,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 82,
+        "12th_percentage": 87,
+        "skills": "Graphic design, programming languages",
+        "contact": "mahimasakthi9@gmail.com",
+        "image": "images/sak.jpg",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/sak1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/sak2.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/sak3.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "Certificate of Completion",
+                    "description": "Successfully Completed the Online Skilling Coures on AI For India 2.0",
+                    "image": "certifications/sak1.jpg"
+                },
+                {
+                    "name": "Certificate of Achivement",
+                    "description": "Design Thinking Workshop Event Conducted by Yuva Club of Jeppiaar Engineering Collage",
+                    "image": "certifications/sak2.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/sak3.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 18,
+        "name": "Sri Mathi",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 6.5,
+        "Semester2": 7.3,        
+        "Semester3": 8.23,
+        "Semester4": 7.88,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 73,
+        "12th_percentage": 84,
+        "skills": "Basic excel, Python , C , Poster Designing",
+        "contact": "priyapriya58675@gmail.com",
+        "image": "images/sri.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 19,
+        "name": "SARAVANAPRIYA ",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.25,
+        "Semester2": 7.40,        
+        "Semester3": 7.64,
+        "Semester4": 7.88,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 80,
+        "12th_percentage": 84,
+        "skills": "Basic excel, Python , C , Poster Designing",
+        "contact": "saravanapriya31102004@gmail.com ",
+        "image": "images/sar.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 20,
+        "name": "SRIJAYIESH V",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 8.1,
+        "Semester2": 8.12,        
+        "Semester3": 8.4,
+        "Semester4": 8.9,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 92.6,
+        "12th_percentage": 92.6,
+        "skills": "Basic excel, Python , C , Poster Designing",
+        "contact": "srijayieshv@gmail.com",
+        "image": "images/srij.jpg",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/sri1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "NPTEL Online Certification",
+                    "description": "Programming Data Structures & Algorithms using Python",
+                    "image": "certifications/sri1.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
                 },
                 {
                     "name": "Needed",

@@ -26,7 +26,7 @@ function displayStudentDetails(student) {
         <div class="student-details">
             <h2>${student.name}</h2>
             <p>Education: ${student.education}</p>
-            <p>Academic Performance: ${student["Academic Performance}"]}</p>
+            <p>Academic Performance: ${student["Academic Performance"]}</p>
             <p>Skills: ${student.skills}</p>
             <p>Semester 1 GPA: ${student.Semester1}</p>
             <p>Semester 2 GPA: ${student.Semester2}</p>
@@ -39,7 +39,6 @@ function displayStudentDetails(student) {
             <p>10th Percentage: ${student["10th_percentage"]}</p>
             <p>12th Percentage: ${student["12th_percentage"]}</p>
             <p>Contact: ${student.contact}</p>
-            
             <br>
             <a href="extracurricular.html?id=${student.id}" class="extracurricular-link">Extracurricular Activities</a>
         </div>
@@ -57,7 +56,6 @@ function displayStudentDetails(student) {
         certImage.src = cert.image;
         certImage.alt = `${cert.name} Certification`;
 
-        // Add click event listener to open the image in a new tab
         certImage.addEventListener("click", () => {
             openImageInNewTab(cert.image);
         });
