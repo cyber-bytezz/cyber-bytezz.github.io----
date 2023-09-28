@@ -1,0 +1,207 @@
+/* Reset default styles */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+/* Basic styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+}
+
+/* Header styles */
+header {
+    background-color: #48515b;
+    color: white;
+    text-align: left;
+    padding: 1rem 0;
+    min-width: 320px;
+    position: relative;
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+/* Logo styling */
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo-img {
+    max-width: 60px;
+    margin-right: 10px;
+}
+
+.logo-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.logo {
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0;
+    color: white;
+}
+
+.sub-heading {
+    font-size: 1rem;
+    color: #ccc;
+    margin-top: 10px; /* Adjusted spacing */
+    margin-bottom: 5px; /* Adjusted spacing */
+    font-family: 'Courier New', Courier, monospace;
+    font-style: initial;
+    font-weight: bolder;
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+}
+
+#searchInput {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    flex-grow: 1;
+}
+
+#searchButton {
+    padding: 8px 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+#searchButton:hover {
+    background-color: #0056b3;
+}
+
+/* Main container styles */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Student grid styles */
+.student-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 20px;
+    justify-items: center;
+}
+
+.student-card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    transition: transform 0.2s;
+}
+
+.student-card:hover {
+    transform: translateY(-5px);
+}
+
+.student-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.student-card h2 {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+    color: #333; /* Added color */
+}
+
+.student-card p {
+    font-size: 0.9rem;
+    color: #777;
+    margin-bottom: 15px;
+}
+
+/* Additional styles for mobile view */
+@media screen and (max-width: 768px) {
+    .logo {
+        font-size: 1.5rem;
+    }
+
+    .sub-heading {
+        font-size: 0.8rem;
+        margin-top: 8px; /* Adjusted spacing */
+        margin-bottom: 3px; /* Adjusted spacing */
+    }
+
+    .student-grid {
+        grid-template-columns: repeat(1, 1fr); /* Display one student card per row */
+    }
+
+    .student-card {
+        width: 100%; /* Make each student card occupy the full width */
+        margin: 0 auto 20px; /* Add some margin for spacing */
+    }
+
+    /* Additional style for "and" separator */
+    .student-card p:last-child {
+        margin-bottom: 0; /* Remove margin bottom for last paragraph */
+        position: relative;
+    }
+
+    .student-card p:last-child::before {
+        content: ' and ';
+        position: absolute;
+        top: 0;
+        left: -25px; /* Adjust the position as needed */
+        color: #999; /* Adjust the color as needed */
+    }
+}
+
+/* Pagination styles */
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.page-link {
+    display: inline-block;
+    margin: 0 5px;
+    padding: 8px 12px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #333;
+    transition: background-color 0.3s;
+}
+
+.page-link:hover {
+    background-color: #ddd;
+}
+
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    width: 100%;
+    font-family: monospace;
+}

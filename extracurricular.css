@@ -1,0 +1,79 @@
+/* Reset some default styles */
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Body and container styling */
+body {
+    background-color: #f4f4f4;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* Header styling */
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Extracurricular activities section */
+.extracurricular-activities {
+    margin-top: 20px;
+}
+
+/* Activity card styling */
+.activity-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+    cursor: pointer;
+}
+
+.activity-card:hover {
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+    transform: scale(1.05);
+}
+
+.activity-card img {
+    max-width: 100%;
+    height: auto;
+}
+
+.activity-card h3 {
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.activity-card p {
+    font-size: 14px;
+    color: #666;
+}
+
+/* Footer styling */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 0; /* Smaller padding for the footer */
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    font-size: 14px; /* Smaller font size for the footer text */
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}

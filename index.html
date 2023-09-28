@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Jeppiaar Engineering College</title>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div class="logo-container">
+                <img src="logo.jpg" alt="Jeppiaar Engineering College Logo" class="logo-img">
+                <div class="logo-text">
+                    <h1 class="logo">Jeppiaar Engineering College</h1>
+                    <p class="sub-heading">ECE DEPARTMENT [2021-2025]</p>
+                </div>
+            </div>
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="Search by name...">
+                <button id="searchButton"><i class="fa fa-search"></i></button>
+            </div>
+        </div>
+    </header>
+    <main class="container">
+        <section class="student-grid">
+            <!-- Student cards will be dynamically rendered here -->
+        </section>
+        <nav class="pagination">
+            <a href="#" class="page-link" id="prevPageLink">&laquo; Previous</a>
+            <!-- Page links will be dynamically rendered here -->
+            <a href="#" class="page-link" id="nextPageLink">Next &raquo;</a>
+        </nav>
+    </main>
+    <footer>
+        <p>&copy; 2021-2025 Jeppiaar Engineering College</p>
+        <p>&copy; Made By Aro Barath Chandru</p>
+    </footer>
+
+    <script src="student_data.json"></script>
+    <script src="script.js"></script>
+</body>
+</html>

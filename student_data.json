@@ -1,0 +1,903 @@
+[
+    {
+        "id": 1,
+        "name": "Abhijetha R",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.5,
+        "Semester2": 7.5,
+        "Semester3": 7.5,
+        "Semester4": 7.5,
+        "Semester5": 7.5,
+        "Semester6": 7.5,
+        "Semester7": 7.5,
+        "Semester8": 7.5,
+        "10th_percentage": 90.0,
+        "12th_percentage": 85.0,
+        "skills": "JavaScript, CSS, Java, Python, React-Js",
+        "contact": "kimberly42@example.org",
+        "image": "images/abi.jpg",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/abi1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/abi2.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/abi3.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/abi4.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "Winner",
+                    "description": "Won the regional coding competition.",
+                    "image": "certifications/abi5.jpg"
+                },
+                {
+                    "name": "Tech Symposium Presenter",
+                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "image": "certifications/abi6.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "Web Development Fundamentals",
+                    "description": "Completed an online course on web development.",
+                    "image": "certifications/abi7.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "Basketball Team Captain",
+                    "description": "Led the school's basketball team as captain.",
+                    "image": "certifications/abi8.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "Tech Symposium Presenter",
+                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "image": "certifications/abi9.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "Internship at Company XYZ",
+                    "description": "Completed a summer internship as a software developer.",
+                    "image": "certifications/abi10.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 1.",
+                    "image": "certifications/03.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/03.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "Aginas",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Sem1": 7.5,
+        "Sem2": 7.5,
+        "Sem3": 7.5,
+        "Sem4": 7.5,
+        "Sem5": 7.5,
+        "Sem6": 7.5,
+        "Sem7": 7.5,
+        "Sem8": 7.5,
+        "10th_percentage": 90.0,
+        "12th_percentage": 85.0,
+        "skills": "JavaScript, CSS, Java, Python, React-Js",
+        "contact": "kimberly42@example.org",
+        "image": "images/Aginas.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/Aginas1.jpeg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/Aginas2.jpeg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/Aginas3.jpeg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/Aginas4.jpeg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                    "name": "First Place in Coding",
+                    "description": "Won the regional coding competition.",
+                    "image": "certifications/Aginas5.jpeg"
+                },
+                {
+                    "name": "Tech Symposium Presenter",
+                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "image": "certifications/Aginas6.jpeg"
+                }
+            ],
+            "onlineCertifications": [
+                {
+                    "name": "Web Development Fundamentals",
+                    "description": "Completed an online course on web development.",
+                    "image": "certifications/Aginas7.jpeg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "Basketball Team Captain",
+                    "description": "Led the school's basketball team as captain.",
+                    "image": "certifications/Aginas8.jpeg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "Tech Symposium Presenter",
+                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "image": "certifications/Aginas1.jpeg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "Internship at Company XYZ",
+                    "description": "Completed a summer internship as a software developer.",
+                    "image": "certifications/Aginas2.jpeg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "New Activity 1",
+                    "description": "Description for new activity 1.",
+                    "image": "certifications/04.jpg"
+                },
+                {
+                    "name": "New Activity 2",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/04.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "name": "Kannan G",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.5,
+        "Semester2": 7.5,
+        "Semester3": 7.5,
+        "Semester4": 7.5,
+        "Semester5": 7.5,
+        "Semester6": 7.5,
+        "Semester7": 7.5,
+        "Semester8": 7.5,
+        "10th_percentage": 90.0,
+        "12th_percentage": 85.0,
+        "skills": "JavaScript, CSS, Java, Python, React-Js",
+        "contact": "kimberly42@example.org",
+        "image": "images/kannan.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/kan1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/kan2.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/kan3.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/kan4.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "Winner",
+                    "description": "Won the regional coding competition.",
+                    "image": "certifications/kan5.jpg"
+                },
+                {
+                    "name": "Tech Symposium Presenter",
+                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "image": "certifications/kan6.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "Web Development Fundamentals",
+                    "description": "Completed an online course on web development.",
+                    "image": "certifications/kan7.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "Basketball Team Captain",
+                    "description": "Led the school's basketball team as captain.",
+                    "image": "certifications/kan8.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "Tech Symposium Presenter",
+                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "image": "certifications/kan9.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "Internship at Company XYZ",
+                    "description": "Completed a summer internship as a software developer.",
+                    "image": "certifications/kan10.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 1.",
+                    "image": "certifications/kan11.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/kan12.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "name": "Jothi R",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.5,
+        "Semester2": 7.5,
+        "Semester3": 7.5,
+        "Semester4": 7.5,
+        "Semester5": 7.5,
+        "Semester6": 7.5,
+        "Semester7": 7.5,
+        "Semester8": 7.5,
+        "10th_percentage": 90.0,
+        "12th_percentage": 85.0,
+        "skills": "JavaScript, CSS, Java, Python, React-Js",
+        "contact": "kimberly42@example.org",
+        "image": "images/jothi.jpg",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/jo1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/jo2.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/jo3.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/jo4.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "Winner",
+                    "description": "Won the regional coding competition.",
+                    "image": "certifications/jo1.jpg"
+                },
+                {
+                    "name": "Tech Symposium Presenter",
+                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "image": "certifications/jo2.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "Web Development Fundamentals",
+                    "description": "Completed an online course on web development.",
+                    "image": "certifications/jo3.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "Basketball Team Captain",
+                    "description": "Led the school's basketball team as captain.",
+                    "image": "certifications/jo4.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "Tech Symposium Presenter",
+                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "image": "certifications/"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "Internship at Company XYZ",
+                    "description": "Completed a summer internship as a software developer.",
+                    "image": "certifications/"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 1.",
+                    "image": "certifications/"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "name": "Jeevanathi",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.5,
+        "Semester2": 7.5,
+        "Semester3": 7.5,
+        "Semester4": 7.5,
+        "Semester5": 7.5,
+        "Semester6": 7.5,
+        "Semester7": 7.5,
+        "Semester8": 7.5,
+        "10th_percentage": 90.0,
+        "12th_percentage": 85.0,
+        "skills": "JavaScript, CSS, Java, Python, React-Js",
+        "contact": "kimberly42@example.org",
+        "image": "images/jee.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/jee1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/jee2.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/jee3.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/jee4.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "Winner",
+                    "description": "Won the regional coding competition.",
+                    "image": "certifications/jee5.jpg"
+                },
+                {
+                    "name": "Tech Symposium Presenter",
+                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "image": "certifications/jee6.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "Web Development Fundamentals",
+                    "description": "Completed an online course on web development.",
+                    "image": "certifications/jee1.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "Basketball Team Captain",
+                    "description": "Led the school's basketball team as captain.",
+                    "image": "certifications/jee2.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "Tech Symposium Presenter",
+                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "image": "certifications/jee3.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "Internship at Company XYZ",
+                    "description": "Completed a summer internship as a software developer.",
+                    "image": "certifications/jee4.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 1.",
+                    "image": "certifications/"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "name": "Divyabharathi K",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.5,
+        "Semester2": 7.5,
+        "Semester3": 7.5,
+        "Semester4": 7.5,
+        "Semester5": 7.5,
+        "Semester6": 7.5,
+        "Semester7": 7.5,
+        "Semester8": 7.5,
+        "10th_percentage": 90.0,
+        "12th_percentage": 85.0,
+        "skills": "JavaScript, CSS, Java, Python, React-Js",
+        "contact": "kimberly42@example.org",
+        "image": "images/divya.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/div1.png"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/div2.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/div3.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/div4.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "Winner",
+                    "description": "Won the regional coding competition.",
+                    "image": "certifications/div5.jpg"
+                },
+                {
+                    "name": "Tech Symposium Presenter",
+                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "image": "certifications/div6.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "Web Development Fundamentals",
+                    "description": "Completed an online course on web development.",
+                    "image": "certifications/div7.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "Basketball Team Captain",
+                    "description": "Led the school's basketball team as captain.",
+                    "image": "certifications/div8.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "Tech Symposium Presenter",
+                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "image": "certifications/div9.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "Internship at Company XYZ",
+                    "description": "Completed a summer internship as a software developer.",
+                    "image": "certifications/div10.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 1.",
+                    "image": "certifications/"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "name": "Kawiya B",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.5,
+        "Semester2": 7.5,
+        "Semester3": 7.5,
+        "Semester4": 7.5,
+        "Semester5": 7.5,
+        "Semester6": 7.5,
+        "Semester7": 7.5,
+        "Semester8": 7.5,
+        "10th_percentage": 90.0,
+        "12th_percentage": 85.0,
+        "skills": "JavaScript, CSS, Java, Python, React-Js",
+        "contact": "kimberly42@example.org",
+        "image": "images/kaw.jpg",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/kaw1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "Winner",
+                    "description": "Won the regional coding competition.",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Tech Symposium Presenter",
+                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "Web Development Fundamentals",
+                    "description": "Completed an online course on web development.",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "Basketball Team Captain",
+                    "description": "Led the school's basketball team as captain.",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "Tech Symposium Presenter",
+                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "Internship at Company XYZ",
+                    "description": "Completed a summer internship as a software developer.",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 1.",
+                    "image": "certifications/"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 8,
+        "name": "Jeevitha R",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.5,
+        "Semester2": 7.5,
+        "Semester3": 7.5,
+        "Semester4": 7.5,
+        "Semester5": 7.5,
+        "Semester6": 7.5,
+        "Semester7": 7.5,
+        "Semester8": 7.5,
+        "10th_percentage": 90.0,
+        "12th_percentage": 85.0,
+        "skills": "JavaScript, CSS, Java, Python, React-Js",
+        "contact": "kimberly42@example.org",
+        "image": "images/je.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/je1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "Winner",
+                    "description": "Won the regional coding competition.",
+                    "image": "certifications/je1.jpg"
+                },
+                {
+                    "name": "Tech Symposium Presenter",
+                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "Web Development Fundamentals",
+                    "description": "Completed an online course on web development.",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "Basketball Team Captain",
+                    "description": "Led the school's basketball team as captain.",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "Tech Symposium Presenter",
+                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "Internship at Company XYZ",
+                    "description": "Completed a summer internship as a software developer.",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 1.",
+                    "image": "certifications/"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 9,
+        "name": "Deechana J",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.5,
+        "Semester2": 7.5,
+        "Semester3": 7.5,
+        "Semester4": 7.5,
+        "Semester5": 7.5,
+        "Semester6": 7.5,
+        "Semester7": 7.5,
+        "Semester8": 7.5,
+        "10th_percentage": 90.0,
+        "12th_percentage": 85.0,
+        "skills": "JavaScript, CSS, Java, Python, React-Js",
+        "contact": "kimberly42@example.org",
+        "image": "images/dee.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/dee1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/dee2.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/dee3.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "Winner",
+                    "description": "Won the regional coding competition.",
+                    "image": "certifications/dee1.jpg"
+                },
+                {
+                    "name": "Tech Symposium Presenter",
+                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "image": "certifications/dee2.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "Web Development Fundamentals",
+                    "description": "Completed an online course on web development.",
+                    "image": "certifications/dee3.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "Basketball Team Captain",
+                    "description": "Led the school's basketball team as captain.",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "Tech Symposium Presenter",
+                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "Internship at Company XYZ",
+                    "description": "Completed a summer internship as a software developer.",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 1.",
+                    "image": "certifications/"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 10,
+        "name": "Anushiya M",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.5,
+        "Semester2": 7.5,
+        "Semester3": 7.5,
+        "Semester4": 7.5,
+        "Semester5": 7.5,
+        "Semester6": 7.5,
+        "Semester7": 7.5,
+        "Semester8": 7.5,
+        "10th_percentage": 90.0,
+        "12th_percentage": 85.0,
+        "skills": "JavaScript, CSS, Java, Python, React-Js",
+        "contact": "kimberly42@example.org",
+        "image": "images/null.jpg",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/anu1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/anu2.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/anu3.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/anu4.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "Winner",
+                    "description": "Won the regional coding competition.",
+                    "image": "certifications/anu5.jpg"
+                },
+                {
+                    "name": "Tech Symposium Presenter",
+                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "image": "certifications/anu6.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "Web Development Fundamentals",
+                    "description": "Completed an online course on web development.",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "Basketball Team Captain",
+                    "description": "Led the school's basketball team as captain.",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "Tech Symposium Presenter",
+                    "description": "Presented a talk on emerging technologies at a tech symposium.",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "Internship at Company XYZ",
+                    "description": "Completed a summer internship as a software developer.",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 1.",
+                    "image": "certifications/"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    }
+]
