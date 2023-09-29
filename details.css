@@ -29,13 +29,15 @@ header {
 }
 
 .student-details {
-    margin-left: auto; /* Push details to the right for better alignment */
-    margin-right: auto; /* Push details to the right for better alignment */
-    max-width: 400px; /* Added a maximum width to student details */
-    padding: 20px; /* Added padding for a well-contained look */
-    background-color: #f9f9f9; /* A subtle background color for separation */
-    border-radius: 8px; /* Rounded corners for a softer appearance */
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 400px;
+    padding: 20px;
+    background-color: #000000;
+    color: #ffffff; /* Set text color to white for contrast */
+    border-radius: 8px;
 }
+
 
 .student-info {
     text-align: center;
@@ -51,6 +53,8 @@ header {
 .student-photo {
     max-width: 250px; /* Increased maximum width for a more prominent photo */
     margin: 0 auto; /* Center the student photo */
+    position: relative; /* Added position relative for absolute positioning */
+    transition: background-color 0.3s; /* Added transition for background color change */
 }
 
 .student-photo img {
@@ -59,17 +63,36 @@ header {
     height: auto;
     border-radius: 50%;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); /* Enhanced shadow for depth */
+    transition: transform 0.3s, box-shadow 0.3s, filter 0.3s; /* Added transition for blink effect */
 }
 
+.student-photo img:hover {
+    animation: blink 1s infinite; /* Added blink animation on hover */
+    filter: brightness(120%); /* Increase brightness on hover */
+}
+
+@keyframes blink {
+    0%, 100% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+}
+
+
 .certifications {
+    display: block;
     padding: 60px ; /* Increased padding for better spacing */
     background-color: #ffffff; /* Add a background color for contrast */
+    
 }
 
 .certifications h2 {
     font-size: 2.5rem;
     margin-bottom: 30px;
     font-family: monospace;
+    color: #000000;
 }
 
 .certificates-list {
@@ -77,6 +100,9 @@ header {
     flex-wrap: wrap;
     justify-content: center;
     gap: 30px;
+    color: #000000;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .certification {
