@@ -182,7 +182,7 @@
     },
     {
         "id": 3,
-        "name": "Kannan G",
+        "name": "Kannan D",
         "education": "Engineering",
         "Academic Performance": "Good",
         "Semester1": 8.856,
@@ -827,7 +827,7 @@
         "12th_percentage": 90.67,
         "skills": "Leadership quality, Canva designing,basic problem solving using python. Currently learning sql.",
         "contact": "manushiyaece@gmail.com",
-        "image": "images/null.jpg",
+        "image": "images/anu.jpg",
         "certifications": [
             {
                 "name": "Certification 1",
@@ -921,19 +921,19 @@
         "certifications": [
             {
                 "name": "Certification 1",
-                "image": "certifications/anu1.jpg"
+                "image": "certifications/null.jpg"
             },
             {
                 "name": "Certification 2",
-                "image": "certifications/anu2.jpg"
+                "image": "certifications/null.jpg"
             },
             {
                 "name": "Certification 3",
-                "image": "certifications/anu3.jpg"
+                "image": "certifications/null.jpg"
             },
             {
                 "name": "Certification 3",
-                "image": "certifications/anu4.jpg"
+                "image": "certifications/null.jpg"
             }
         ],
         "extracurricularActivities": {
@@ -941,39 +941,39 @@
                 {
                 "name": "Certifacte of Participation",
                     "description": "Hands-on With Internet of Things(IOT)",
-                    "image": "certifications/anu5.jpg"
+                    "image": "certifications/null.jpg"
                 },
                 {
                     "name": "Certificate of Completion",
                     "description": "Learning Python ",
-                    "image": "certifications/anu6.jpg"
+                    "image": "certifications/null.jpg"
                 }
             ],           "onlineCertifications": [
                 {
                     "name": "Certificate of Completion",
                     "description": "Python Fundamentals for Begineers",
-                    "image": "certifications/anu4.jpg"
+                    "image": "certifications/null.jpg"
                 }
             ],
             "sports": [
                 {
                     "name": "SkillUp",
                     "description": "Introduction to Artifical Intelligence",
-                    "image": "certifications/anu3.jpg"
+                    "image": "certifications/null.jpg"
                 }
             ],
             "symposiums": [
                 {
                     "name": "Certificate of Completion",
                     "description": "Data Structures In C",
-                    "image": "certifications/anu2.jpg"
+                    "image": "certifications/null.jpg"
                 }
             ],
             "Internship": [
                 {
                     "name": "Course Certification",
                     "description": "Crash Course On Python",
-                    "image": "certifications/anu1.jpg"
+                    "image": "certifications/null.jpg"
                 }
             ],
             "Needed": [
@@ -1752,6 +1752,636 @@
                 "name": "NPTEL Online Certification",
                     "description": "Programming Data Structures & Algorithms using Python",
                     "image": "certifications/sri1.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 21,
+        "name": "Abinaya G",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.950,
+        "Semester2": 8.087,        
+        "Semester3": 8.160,
+        "Semester4": 8.5,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 82,
+        "12th_percentage": 84,
+        "skills": "Nmms exam coacher, sports activities, Python, C, Ms-Office",
+        "contact": "abinayag631@gmail.com",
+        "image": "images/Abinaya.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/abinaya1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/abinaya2.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/abinaya3.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/abinaya4.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "NPTEL Online Certification",
+                    "description": "Programming Data Structures & Algorithms using Python",
+                    "image": "certifications/abinaya5.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 22,
+        "name": "Antalin Pricy A",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.800,
+        "Semester2": 7.478,        
+        "Semester3": 8.02,
+        "Semester4": 8.5,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 80,
+        "12th_percentage": 85.28,
+        "skills": "Python, C, Ms-Office, Drawing, Poster Editing",
+        "contact": "pricyantalin@gmail.com",
+        "image": "images/null.jpg",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/pricy1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/pricy2.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/pricy3.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/pricy4.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "NPTEL Online Certification",
+                    "description": "Programming Data Structures & Algorithms using Python",
+                    "image": "certifications/pricy5.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/pricy6.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/pricy7.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 23,
+        "name": "Kuralarasan S",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.250,
+        "Semester2": 7.000,        
+        "Semester3": 7.640,
+        "Semester4": 8.3,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 80,
+        "12th_percentage": 85.28,
+        "skills": "Python, video editing, poster editing,app development",
+        "contact": "kuralarasan392002@gmail.com",
+        "image": "images/kur.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/kur1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/kur2.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/kur3.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "NPTEL Online Certification",
+                    "description": "Programming Data Structures & Algorithms using Python",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 24,
+        "name": "Mamathi A",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.7,
+        "Semester2": 8.21,        
+        "Semester3": 7.7,
+        "Semester4": 8.3,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 89.2,
+        "12th_percentage": 89.8,
+        "skills": "Python programming,C language, Poster Editing",
+        "contact": "kuralarasan392002@gmail.com",
+        "image": "images/null.jpg",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/mam1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/mam2.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/mam3.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/mam4.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "NPTEL Online Certification",
+                    "description": "Programming Data Structures & Algorithms using Python",
+                    "image": "certifications/mam1.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/mam2.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/mam3.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/mam4.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 25,
+        "name": "Iswarya.R",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 6.857,
+        "Semester2": 7.417,        
+        "Semester3": 7.972,
+        "Semester4": 7.000,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 63.6,
+        "12th_percentage": 75.64,
+        "skills": "Python programming,C language, Poster Editing",
+        "contact": "ishwaryaraghu11103@gmail.com",
+        "image": "images/isw.jpg",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/isw1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "NPTEL Online Certification",
+                    "description": "Programming Data Structures & Algorithms using Python",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 26,
+        "name": "VISHALI B",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.250,
+        "Semester2": 7.750,        
+        "Semester3": 8.52,
+        "Semester4": 8.5,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 89,
+        "12th_percentage": 90,
+        "skills": "Python programming,C language, Poster Editing, learning ",
+        "contact": "vishaligj166@gmail.com",
+        "image": "images/vaisa.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/vaisa1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "NPTEL Online Certification",
+                    "description": "Programming Data Structures & Algorithms using Python",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 27,
+        "name": "Thrisha J",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.250,
+        "Semester2": 7.750,        
+        "Semester3": 8.52,
+        "Semester4": 8.5,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 89,
+        "12th_percentage": 90,
+        "skills": "Python programming,C language, Poster Editing, learning ",
+        "contact": "ishwaryaraghu11103@gmail.com",
+        "image": "images/tri.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/vaisa1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "NPTEL Online Certification",
+                    "description": "Programming Data Structures & Algorithms using Python",
+                    "image": "certifications/null.jpg"
                 },
                 {
                     "name": "",
