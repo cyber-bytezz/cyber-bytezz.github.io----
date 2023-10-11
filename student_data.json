@@ -2429,5 +2429,185 @@
                 }
             ]
         }
+    },
+    {
+        "id": 28,
+        "name": "Vishwa M",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.8,
+        "Semester2": 7.750,        
+        "Semester3": 8.52,
+        "Semester4": 8.5,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 89,
+        "12th_percentage": 90,
+        "skills": "Python programming,C language, Poster Editing, learning ",
+        "contact": "mail@gmail.com",
+        "image": "images/Vishwa.jpg",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "NPTEL Online Certification",
+                    "description": "Programming Data Structures & Algorithms using Python",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 29,
+        "name": "Vishwa M",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.8,
+        "Semester2": 7.750,        
+        "Semester3": 8.52,
+        "Semester4": 8.5,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 89,
+        "12th_percentage": 90,
+        "skills": "Python programming,C language, Poster Editing, learning ",
+        "contact": "mail@gmail.com",
+        "image": "images/Vishwa.jpg",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "NPTEL Online Certification",
+                    "description": "Programming Data Structures & Algorithms using Python",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
     }
 ]
