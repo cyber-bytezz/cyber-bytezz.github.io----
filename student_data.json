@@ -917,11 +917,11 @@
         "12th_percentage": 90.5,
         "skills": "Basic excel, Python , C , Poster Designing",
         "contact": "Vishnupriyabharathi0609@gmail.com",
-        "image": "images/vishnu.png",
+        "image": "images/vp.png",
         "certifications": [
             {
                 "name": "Certification 1",
-                "image": "certifications/null.jpg"
+                "image": "certifications/vp1.jpeg"
             },
             {
                 "name": "Certification 2",
@@ -940,8 +940,8 @@
             "achievements": [
                 {
                 "name": "Certifacte of Participation",
-                    "description": "Hands-on With Internet of Things(IOT)",
-                    "image": "certifications/null.jpg"
+                    "description": "Project Presentation at KCG Engineering Collage",
+                    "image": "certifications/vp1.jpeg"
                 },
                 {
                     "name": "Certificate of Completion",
@@ -4238,16 +4238,196 @@
         "Semester1": 8.6,
         "Semester2": 8.37,        
         "Semester3": 8.38,
-        "Semester4": 9.3,
+        "Semester4": 8.9,
         "Semester5": null,
         "Semester6": null,
         "Semester7": null,
         "Semester8": null,
         "10th_percentage": 82.8,
         "12th_percentage": 90,
-        "skills": "Python, C-Language, Content Writing, Learning JAVA",
-        "contact": "ecevaishnavi310@gmail.com",
-        "image": "images/vai.png",
+        "skills": "Data Analytics, Python, SQL, HTML, CSS, JavaScript, Excel, Machine Learning",
+        "contact": "aashoksai306@gmail.com",
+        "image": "images/as.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/as14.png"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/as15.png"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/as16.png"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/as17.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/as5.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/as6.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/as7.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/as8.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/as9.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/as10.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 50,
+        "name": "Akash Kumar",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.8,
+        "Semester2": 7.5,        
+        "Semester3": 7.4,
+        "Semester4": 7.3,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 84.8,
+        "12th_percentage": 84,
+        "skills": "Data Analytics, Python, SQL, HTML, CSS, JavaScript, Excel, Machine Learning",
+        "contact": "akashkumar@gmail.com",
+        "image": "images/ak.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/ak1.jpeg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/ak2.jpeg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 51,
+        "name": "Will Update",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.8,
+        "Semester2": 7.5,        
+        "Semester3": 7.4,
+        "Semester4": 7.3,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 84.8,
+        "12th_percentage": 84,
+        "skills": "Data Analytics, Python, SQL, HTML, CSS, JavaScript, Excel, Machine Learning",
+        "contact": "you@gmail.com",
+        "image": "images/no.png",
         "certifications": [
             {
                 "name": "Certification 1",
@@ -4310,7 +4490,277 @@
                 {
                     "name": "",
                     "description": "",
+                    "image": "certifications/.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 51,
+        "name": "Will Update",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.8,
+        "Semester2": 7.5,        
+        "Semester3": 7.4,
+        "Semester4": 7.3,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 84.8,
+        "12th_percentage": 84,
+        "skills": "Data Analytics, Python, SQL, HTML, CSS, JavaScript, Excel, Machine Learning",
+        "contact": "you@gmail.com",
+        "image": "images/no.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
                     "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 51,
+        "name": "Will Update",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.8,
+        "Semester2": 7.5,        
+        "Semester3": 7.4,
+        "Semester4": 7.3,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 84.8,
+        "12th_percentage": 84,
+        "skills": "Data Analytics, Python, SQL, HTML, CSS, JavaScript, Excel, Machine Learning",
+        "contact": "you@gmail.com",
+        "image": "images/no.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 51,
+        "name": "Will Update",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.8,
+        "Semester2": 7.5,        
+        "Semester3": 7.4,
+        "Semester4": 7.3,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 84.8,
+        "12th_percentage": 84,
+        "skills": "Data Analytics, Python, SQL, HTML, CSS, JavaScript, Excel, Machine Learning",
+        "contact": "you@gmail.com",
+        "image": "images/no.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/.jpg"
                 },
                 {
                     "name": "Needed",
