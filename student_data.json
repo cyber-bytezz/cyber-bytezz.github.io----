@@ -2435,23 +2435,23 @@
         "name": "Vishwa M",
         "education": "Engineering",
         "Academic Performance": "Good",
-        "Semester1": 7.8,
-        "Semester2": 7.750,        
-        "Semester3": 8.52,
+        "Semester1": 7.9,
+        "Semester2": 7.9,        
+        "Semester3": 8.42,
         "Semester4": 8.5,
         "Semester5": null,
         "Semester6": null,
         "Semester7": null,
         "Semester8": null,
-        "10th_percentage": 89,
-        "12th_percentage": 90,
-        "skills": "Python programming,C language, Poster Editing, learning ",
-        "contact": "mail@gmail.com",
+        "10th_percentage": 83.6,
+        "12th_percentage": 86.333,
+        "skills": "Python programming,C language, HTML",
+        "contact": "Vishwa6286@gmail.com",
         "image": "images/Vishwa.jpg",
         "certifications": [
             {
                 "name": "Certification 1",
-                "image": "certifications/null.jpg"
+                "image": "certifications/vis.jpg"
             },
             {
                 "name": "Certification 2",
@@ -2471,7 +2471,7 @@
                 {
                 "name": "NPTEL Online Certification",
                     "description": "Programming Data Structures & Algorithms using Python",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/vis.jpg"
                 },
                 {
                     "name": "",
@@ -2522,22 +2522,22 @@
     },
     {
         "id": 29,
-        "name": "Vishwa M",
+        "name": "Vignesh D",
         "education": "Engineering",
         "Academic Performance": "Good",
-        "Semester1": 7.8,
-        "Semester2": 7.750,        
-        "Semester3": 8.52,
-        "Semester4": 8.5,
+        "Semester1": null,
+        "Semester2": null,        
+        "Semester3": 7.0,
+        "Semester4": 7.1,
         "Semester5": null,
         "Semester6": null,
         "Semester7": null,
         "Semester8": null,
-        "10th_percentage": 89,
-        "12th_percentage": 90,
-        "skills": "Python programming,C language, Poster Editing, learning ",
-        "contact": "mail@gmail.com",
-        "image": "images/Vishwa.jpg",
+        "10th_percentage": 52,
+        "12th_percentage": "Diploma-77",
+        "skills": "Python programming,C language, HTML",
+        "contact": "Vishwa6286@gmail.com",
+        "image": "images/Vig.png",
         "certifications": [
             {
                 "name": "Certification 1",
@@ -2559,8 +2559,1628 @@
         "extracurricularActivities": {
             "achievements": [
                 {
-                "name": "NPTEL Online Certification",
-                    "description": "Programming Data Structures & Algorithms using Python",
+                "name": "",
+                    "description": "",
+                    "image": "certifications/vis.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 31,
+        "name": "VAISHNAVI V",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.25,
+        "Semester2": 7.75,        
+        "Semester3": 8.58,
+        "Semester4": null,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 86.7,
+        "12th_percentage": 90,
+        "skills": "Python programming,C language, HTML",
+        "contact": "vaishnaviviswanathan742@gmail.com",
+        "image": "images/vishv.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/vis.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 32,
+        "name": "Tanzil Ishrat A",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.8,
+        "Semester2": 7.5,        
+        "Semester3": 8,
+        "Semester4": null,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 82,
+        "12th_percentage": 85,
+        "skills": "Python programming,C language,",
+        "contact": "tanziishu2004@gmail.com",
+        "image": "images/tan.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/vis.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 33,
+        "name": "Suthandira Pragash M",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.300,
+        "Semester2": 7.43,        
+        "Semester3": 6.92,
+        "Semester4": null,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 92.61,
+        "12th_percentage": 86.42,
+        "skills": "Basics in Exel , Python",
+        "contact": "suthandirapragashm@gmail.com",
+        "image": "images/suth.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/vis.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 34,
+        "name": "V. Supraja",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 8.05,
+        "Semester2": 8.08,        
+        "Semester3": 8.72,
+        "Semester4": 8.6,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 92.4,
+        "12th_percentage": 89.5,
+        "skills": "Content writing, drawing, Python",
+        "contact": "vsupraja0711@gmail.com",
+        "image": "images/raj.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/vis.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 35,
+        "name": "Sucharitha.N",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 8.000,
+        "Semester2": 8.000,        
+        "Semester3": 8.048,
+        "Semester4": 8.6,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 78,
+        "12th_percentage": 82.94,
+        "skills": "Content writing, Python, C Language",
+        "contact": "sucharithanagesh555@gmail.com",
+        "image": "images/su.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/vis.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 36,
+        "name": "Subhashini.N",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.600,
+        "Semester2": 8.261,        
+        "Semester3": 8.571,
+        "Semester4": 8.6,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 85.5,
+        "12th_percentage": 88.92,
+        "skills": "Content writing, Python, C Language",
+        "contact": "subhashininagesh270@gmail.com",
+        "image": "images/su.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/vis.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 37,
+        "name": "Sriram kumar S",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.25,
+        "Semester2": 7.58,        
+        "Semester3": 8.35,
+        "Semester4": 8.3,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 85,
+        "12th_percentage": 89,
+        "skills": "MS Excel,Powerpoint",
+        "contact": "srisiva283@gmail.com",
+        "image": "images/sriku.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/vis.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 38,
+        "name": "SHARINI A D",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.9,
+        "Semester2": 7.76,        
+        "Semester3": 8.04,
+        "Semester4": 8.3,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 80,
+        "12th_percentage": 88,
+        "skills": "MS Excel,Powerpoint",
+        "contact": "sharinidhana@gmail.com",
+        "image": "images/shar.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/vis.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 39,
+        "name": "Saran A",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.250,
+        "Semester2": 7.500,        
+        "Semester3": 7.700,
+        "Semester4": 8.3,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 88.8,
+        "12th_percentage": 89.5,
+        "skills": "Python, C-Language, Content Writing",
+        "contact": "saranashokkumar137@gmail.com",
+        "image": "images/saran.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/vis.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 40,
+        "name": "Santhosh P M",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.000,
+        "Semester2": 7.43,        
+        "Semester3": 7.300,
+        "Semester4": 7.5,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 88.8,
+        "12th_percentage": 72.3,
+        "skills": "Python, C-Language, Content Writing",
+        "contact": "pmsanthosh1611@gmail.com",
+        "image": "images/thos.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/vis.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 41,
+        "name": "SANJANA.K",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 8.15,
+        "Semester2": 7.93,        
+        "Semester3": 7.99,
+        "Semester4": 7.5,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 84.6,
+        "12th_percentage": 86.7,
+        "skills": "Python, C-Language, Content Writing, Artist,Good in singing, Graphic-Designer",
+        "contact": "pmsanthosh1611@gmail.com",
+        "image": "images/saj.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/vis.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 42,
+        "name": "Sakthi Narayanan.V",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.1,
+        "Semester2": 7,        
+        "Semester3": 7.99,
+        "Semester4": 7.353,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 61.8,
+        "12th_percentage": 71.635,
+        "skills": "Python, C-Language,Graphic-Designer",
+        "contact": "sakthinarayanan0275@gmail.com",
+        "image": "images/sakthi.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/sakthi.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/vis.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 43,
+        "name": "Rathish S",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 8.15,
+        "Semester2": 7.58,        
+        "Semester3": 7.565,
+        "Semester4": 8.3,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 85.6,
+        "12th_percentage": 88.66,
+        "skills": "Python, Django,C++",
+        "contact": "rathish642004@gmail.com",
+        "image": "images/Rathish.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/ra1.png"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/ra2.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/ra3.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/ra4.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/ra5.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 44,
+        "name": "Ramya R",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 8.00,
+        "Semester2": 8.10,        
+        "Semester3": 8.40,
+        "Semester4": 8.3,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 83.2,
+        "12th_percentage": 86,
+        "skills": "Learning python and html",
+        "contact": "ramyaramesh866@gmail.com",
+        "image": "images/ram.jpg",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 45,
+        "name": "RAMALAKSHMI.B",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 8.05,
+        "Semester2": 7.91,        
+        "Semester3": 8.48,
+        "Semester4": 8.3,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 72.4,
+        "12th_percentage": 81.3,
+        "skills": "Python, C-Language,Graphic-Designer",
+        "contact": "Ramalakshmibala31@gmail.com",
+        "image": "images/raml.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 46,
+        "name": "Priyadharshini R",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.4,
+        "Semester2": 7.435,        
+        "Semester3": 8.48,
+        "Semester4": 8.3,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 90.8,
+        "12th_percentage": 89.16,
+        "skills": "Python, C-Language,Graphic-Designer",
+        "contact": "priyadharshiniramesh30@gmail.com ",
+        "image": "images/priya.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 47,
+        "name": "A.R. PRASANNA KUMAR",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 8.850,
+        "Semester2": 8.217,        
+        "Semester3": 8.6,
+        "Semester4": 7.9,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 84.2,
+        "12th_percentage": 89.47,
+        "skills": "Quick learner, Well communication skills, Innovation and creativity mind",
+        "contact": "prasannakumar2354@gmail.com",
+        "image": "images/pk.jpg",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 48,
+        "name": "KA.VAISHNAVI",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 8.30,
+        "Semester2": 8.30,        
+        "Semester3": 7.8,
+        "Semester4": 7.9,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 88.4,
+        "12th_percentage": 90,
+        "skills": "Python, C-Language, Content Writing, Learning JAVA",
+        "contact": "ecevaishnavi310@gmail.com",
+        "image": "images/vai.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
                     "image": "certifications/null.jpg"
                 },
                 {
