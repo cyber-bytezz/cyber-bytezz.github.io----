@@ -52,7 +52,7 @@
 - Navigate through pages effortlessly with our intuitive pagination.
 
 <div align="center">
-  <img src="https://github.com/cyber-bytezz/cyber-bytezz.github.io/assets/130319315/19852948-2181-4c62-8d89-f97c23a6cf90" alt="Student Portal Image" width="600">
+  <img src="https://github.com/cyber-bytezz/cyber-bytezz.github.io/assets/130319315/87248824-5e10-406d-bc47-c804e92f70de" alt="Student Portal Image" width="600">
 </div>
 
 ### Student Details
@@ -61,7 +61,7 @@
 - Delve into their achievements, activities, and certifications.
 
 <div align="center">
-  <img src="https://github.com/cyber-bytezz/cyber-bytezz.github.io/assets/130319315/f38b71cf-9771-4a7d-afd5-11563ad0b1dc" alt="Student Details Image" width="600">
+  <img src="https://github.com/cyber-bytezz/cyber-bytezz.github.io/assets/130319315/1092d850-64fa-4e7d-a530-4e39db982588" alt="Student Details Image" width="600">
 </div>
 
 ### Extracurricular Activities
@@ -70,7 +70,7 @@
 - Be inspired by the diversity of activities that shape our ECE department.
 
 <div align="center">
-  <img src="https://github.com/cyber-bytezz/cyber-bytezz.github.io/assets/130319315/6e39ef6b-8079-4da5-bc67-062ddd8e9f35" alt="Extracurricular Activities Image" width="600">
+  <img src="https://github.com/cyber-bytezz/cyber-bytezz.github.io/assets/130319315/2cea9a05-76bb-4d23-9463-51414a1123ff"alt="Extracurricular Activities Image" width="600">
 </div>
 
 ---
