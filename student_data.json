@@ -728,7 +728,7 @@
         "Semester1": 7.750,
         "Semester2": 7.08,
         "Semester3": 7.72,
-        "Semester4": 7,
+        "Semester4": 8.6,
         "Semester5": null,
         "Semester6": null,
         "Semester7": null,
@@ -4798,6 +4798,96 @@
                     "name": "",
                     "description": "",
                     "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 56,
+        "name": "Indhumathi V ",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 8,
+        "Semester2": 7.130,        
+        "Semester3": 8.200,
+        "Semester4": 8.6,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 88,
+        "12th_percentage": 88,
+        "skills": "python, Java basics(Technical), Portrait drawing(non technical)",
+        "contact": "vindhumathi2004indhumathi@gmail.com",
+        "image": "images/I.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/I1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/I2.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/I3.jpg"
+            },
+            {
+                "name": "Certification 4",
+                "image": "certifications/I4.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/I4.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/I1.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/I2.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/I3.jpg"
                 }
             ],
             "symposiums": [
