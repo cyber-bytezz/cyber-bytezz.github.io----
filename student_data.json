@@ -1892,57 +1892,57 @@
     },
     {
         "id": 22,
-        "name": "Antalin Pricy A",
+        "name": "Antalin pricy A",
         "education": "Engineering",
         "Academic Performance": "Good",
         "Semester1": 7.800,
         "Semester2": 7.478,        
-        "Semester3": 8.02,
-        "Semester4": 8.5,
+        "Semester3": 8.020,
+        "Semester4": 8.61,
         "Semester5": null,
         "Semester6": null,
         "Semester7": null,
         "Semester8": null,
         "10th_percentage": 80,
-        "12th_percentage": 85.28,
-        "skills": "Python, C, Ms-Office, Drawing, Poster Editing",
+        "12th_percentage": 85.2,
+        "skills": "python, Java basics(Technical), Portrait drawing(non technical)",
         "contact": "pricyantalin@gmail.com",
-        "image": "images/null.jpg",
+        "image": "images/ap.png",
         "certifications": [
             {
                 "name": "Certification 1",
-                "image": "certifications/pricy1.jpg"
+                "image": "certifications/ap1.jpg"
             },
             {
                 "name": "Certification 2",
-                "image": "certifications/pricy2.jpg"
+                "image": "certifications/ap2.jpg"
             },
             {
                 "name": "Certification 3",
-                "image": "certifications/pricy3.jpg"
+                "image": "certifications/ap3.jpg"
             },
             {
                 "name": "Certification 4",
-                "image": "certifications/pricy4.jpg"
+                "image": "certifications/ap4.jpg"
             }
         ],
         "extracurricularActivities": {
             "achievements": [
                 {
-                "name": "NPTEL Online Certification",
-                    "description": "Programming Data Structures & Algorithms using Python",
-                    "image": "certifications/pricy5.jpg"
+                "name": "",
+                    "description": "",
+                    "image": "certifications/ap5.jpg"
                 },
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/pricy6.jpg"
+                    "image": "certifications/ap6.jpg"
                 }
             ],           "onlineCertifications": [
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/pricy7.jpg"
+                    "image": "certifications/ap7.jpg"
                 }
             ],
             "sports": [
@@ -1970,7 +1970,7 @@
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/.jpg"
                 },
                 {
                     "name": "Needed",
@@ -4740,96 +4740,6 @@
     },
     {
         "id": 55,
-        "name": "Antalin pricy A",
-        "education": "Engineering",
-        "Academic Performance": "Good",
-        "Semester1": 7.800,
-        "Semester2": 7.478,        
-        "Semester3": 8.020,
-        "Semester4": 8.61,
-        "Semester5": null,
-        "Semester6": null,
-        "Semester7": null,
-        "Semester8": null,
-        "10th_percentage": 80,
-        "12th_percentage": 85.2,
-        "skills": "python, Java basics(Technical), Portrait drawing(non technical)",
-        "contact": "pricyantalin@gmail.com",
-        "image": "images/ap.png",
-        "certifications": [
-            {
-                "name": "Certification 1",
-                "image": "certifications/ap1.jpg"
-            },
-            {
-                "name": "Certification 2",
-                "image": "certifications/ap2.jpg"
-            },
-            {
-                "name": "Certification 3",
-                "image": "certifications/ap3.jpg"
-            },
-            {
-                "name": "Certification 4",
-                "image": "certifications/ap4.jpg"
-            }
-        ],
-        "extracurricularActivities": {
-            "achievements": [
-                {
-                "name": "",
-                    "description": "",
-                    "image": "certifications/ap5.jpg"
-                },
-                {
-                    "name": "",
-                    "description": "",
-                    "image": "certifications/ap6.jpg"
-                }
-            ],           "onlineCertifications": [
-                {
-                    "name": "",
-                    "description": "",
-                    "image": "certifications/ap7.jpg"
-                }
-            ],
-            "sports": [
-                {
-                    "name": "",
-                    "description": "",
-                    "image": "certifications/null.jpg"
-                }
-            ],
-            "symposiums": [
-                {
-                    "name": "",
-                    "description": "",
-                    "image": "certifications/null.jpg"
-                }
-            ],
-            "Internship": [
-                {
-                    "name": "",
-                    "description": "",
-                    "image": "certifications/null.jpg"
-                }
-            ],
-            "Needed": [
-                {
-                    "name": "",
-                    "description": "",
-                    "image": "certifications/.jpg"
-                },
-                {
-                    "name": "Needed",
-                    "description": "Description for new activity 2.",
-                    "image": "certifications/"
-                }
-            ]
-        }
-    },
-    {
-        "id": 56,
         "name": "Indhumathi V ",
         "education": "Engineering",
         "Academic Performance": "Good",
