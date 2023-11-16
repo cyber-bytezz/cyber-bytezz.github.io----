@@ -3736,13 +3736,13 @@
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/ra6.jpg"
                 }
             ],           "onlineCertifications": [
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/ra7.jpg"
                 }
             ],
             "sports": [
@@ -5442,6 +5442,366 @@
                     "name": "",
                     "description": "",
                     "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 64,
+        "name": "V. Elamaran",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.60,
+        "Semester2": 7.78,        
+        "Semester3": 7.88,
+        "Semester4": 8.1,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 69,
+        "12th_percentage": 77,
+        "skills": "Python coding,HTML,java",
+        "contact": "velamaran007@gmail.com",
+        "image": "images/ak.jpg",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 4",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 65,
+        "name": " Karthikeyan.M",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.650,
+        "Semester2": 7.739,        
+        "Semester3": 7.796,
+        "Semester4": 7.89,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 69,
+        "12th_percentage": 77,
+        "skills": " Problem Solving, Python & Data Science,Designing in Poster, Photography",
+        "contact": "karthikeyan300304@gmail.com",
+        "image": "images/ka.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/ka1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/ka2.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/ka3.jpg"
+            },
+            {
+                "name": "Certification 4",
+                "image": "certifications/ka4.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/ka5.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/ka6.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/ka7.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/ka8.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/ka3.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/ka6.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 66,
+        "name": "K.KANCHIPRASAD",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.000,
+        "Semester2": 6.900,        
+        "Semester3": 7.619,
+        "Semester4": 7.91,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 85,
+        "12th_percentage": 89,
+        "skills": "Python coding,HTML,java",
+        "contact": "knchprsd@gmail.com",
+        "image": "images/kp.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/kp1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/kp2.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/kp3.jpg"
+            },
+            {
+                "name": "Certification 4",
+                "image": "certifications/kp4.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/kp5.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/kp6.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/kp7.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/ka8.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/ka4.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/ka2.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 67,
+        "name": "SathyPriya S",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 8.6,
+        "Semester2": 8.46,        
+        "Semester3": 8.4,
+        "Semester4": 8.8,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 85,
+        "12th_percentage": 89,
+        "skills": "Done My Certification in Java, Python , HTML & CSS, Working as Content Creator, Advance Excel",
+        "contact": "sathyapriyasridhar123@gmail.com",
+        "image": "images/sp.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/sp1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/sp2.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/sp3.jpg"
+            },
+            {
+                "name": "Certification 4",
+                "image": "certifications/sp4.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/sp5.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/sp6.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/sp7.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/sp8.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/sp9.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/sp1.jpg"
                 }
             ],
             "Needed": [
