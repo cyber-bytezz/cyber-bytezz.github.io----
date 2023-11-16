@@ -827,7 +827,7 @@
         "12th_percentage": 90.67,
         "skills": "Leadership quality, Canva designing,basic problem solving using python. Currently learning sql.",
         "contact": "manushiyaece@gmail.com",
-        "image": "images/anu.jpg",
+        "image": "images/anu.png",
         "certifications": [
             {
                 "name": "Certification 1",
@@ -2708,32 +2708,32 @@
         "Semester1": 7.8,
         "Semester2": 7.5,        
         "Semester3": 8,
-        "Semester4": null,
+        "Semester4": 8.3,
         "Semester5": null,
         "Semester6": null,
         "Semester7": null,
         "Semester8": null,
-        "10th_percentage": 82,
-        "12th_percentage": 85,
-        "skills": "Python programming,C language,",
+        "10th_percentage": 64.8,
+        "12th_percentage": 75.7,
+        "skills": "Data Analytics, Python, SQL, HTML, CSS, JavaScript",
         "contact": "tanziishu2004@gmail.com",
         "image": "images/tan.png",
         "certifications": [
             {
                 "name": "Certification 1",
-                "image": "certifications/null.jpg"
+                "image": "certifications/tan1.jpg"
             },
             {
                 "name": "Certification 2",
-                "image": "certifications/null.jpg"
+                "image": "certifications/tan2.jpg"
             },
             {
                 "name": "Certification 3",
-                "image": "certifications/null.jpg"
+                "image": "certifications/tan3.jpg"
             },
             {
                 "name": "Certification 4",
-                "image": "certifications/null.jpg"
+                "image": "certifications/tan4.jpg"
             }
         ],
         "extracurricularActivities": {
@@ -2741,32 +2741,32 @@
                 {
                 "name": "",
                     "description": "",
-                    "image": "certifications/vis.jpg"
+                    "image": "certifications/tan5.jpg"
                 },
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/tan3.jpg"
                 }
             ],           "onlineCertifications": [
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/tan2.jpg"
                 }
             ],
             "sports": [
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/tan1.jpg"
                 }
             ],
             "symposiums": [
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/tan4.jpg"
                 }
             ],
             "Internship": [
@@ -2780,7 +2780,7 @@
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/.jpg"
                 },
                 {
                     "name": "Needed",
@@ -5802,6 +5802,96 @@
                     "name": "",
                     "description": "",
                     "image": "certifications/sp1.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 68,
+        "name": " K. Kirti",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.650,
+        "Semester2": 7.579,        
+        "Semester3": 7.762,
+        "Semester4": 7.3,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 64.8,
+        "12th_percentage": 75.7,
+        "skills": "Basic python,Arduino board , Basic C and data structures, Linux and windows",
+        "contact": "kirtikarthikeyan26@gmail.com",
+        "image": "images/ki.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/ki1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/ki2.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/ki3.jpg"
+            },
+            {
+                "name": "Certification 4",
+                "image": "certifications/ki4.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/ki5.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/ki6.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/ki7.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/ki3.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/ki5.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/ki2.jpg"
                 }
             ],
             "Needed": [
