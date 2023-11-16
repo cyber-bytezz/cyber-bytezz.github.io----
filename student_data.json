@@ -4827,5 +4827,275 @@
                 }
             ]
         }
+    },
+    {
+        "id": 56,
+        "name": "Karthikeyan.A",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 8.50,
+        "Semester2": 8.35,        
+        "Semester3": 8.03,
+        "Semester4": 8.9,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 92.4,
+        "12th_percentage": 93.58,
+        "skills": "Drawing, volunteering, basic problem solving skills",
+        "contact": "kesavankarthikeyan47@gmail.com",
+        "image": "images/null.jpg",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/k71.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/k72.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/k73.jpg"
+            },
+            {
+                "name": "Certification 4",
+                "image": "certifications/k74.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/k74.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/k72.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/k73.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/k71.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 58,
+        "name": "Deepika",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 8.50,
+        "Semester2": 8.35,        
+        "Semester3": 8.03,
+        "Semester4": 8.9,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 92.4,
+        "12th_percentage": 93.58,
+        "skills": "Drawing, volunteering, basic problem solving skills",
+        "contact": "kesavankarthikeyan47@gmail.com",
+        "image": "images/null.jpg",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/dp1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/dp2.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/dp3.jpg"
+            },
+            {
+                "name": "Certification 4",
+                "image": "certifications/dp4.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/dp4.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/dp2.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/dp3.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/dp1.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 59,
+        "name": "Nandhini.D",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 8.250,
+        "Semester2": 8.261,        
+        "Semester3": 8.2,
+        "Semester4": 8.91,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 89.6,
+        "12th_percentage": 91.87,
+        "skills": "Drawing, volunteering, basic problem solving skills, Java",
+        "contact": "nandhinid152@gmail.com",
+        "image": "images/n.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/n1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/n2.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/n3.jpg"
+            },
+            {
+                "name": "Certification 4",
+                "image": "certifications/n4.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/n5.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/n6.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/n1.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/n4.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/n3.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/n2.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
     }
 ]
