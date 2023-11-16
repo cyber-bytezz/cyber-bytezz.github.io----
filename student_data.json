@@ -1268,7 +1268,7 @@
         "Semester1": 7.550,
         "Semester2": 8.130,        
         "Semester3": 8,
-        "Semester4": 7.88,
+        "Semester4": 8.55,
         "Semester5": null,
         "Semester6": null,
         "Semester7": null,
@@ -1276,7 +1276,7 @@
         "10th_percentage": 81,
         "12th_percentage": 86,
         "skills": "Basic excel, Python , C , Poster Designing",
-        "contact": "surekaraghavan44@gmail.com",
+        "contact": "vishalchristopher2007@gmail.com",
         "image": "images/vis.png",
         "certifications": [
             {
@@ -1352,7 +1352,7 @@
     },
     {
         "id": 16,
-        "name": "Priya R",
+        "name": "Priya P",
         "education": "Engineering",
         "Academic Performance": "Good",
         "Semester1": 6.5,
@@ -1371,19 +1371,19 @@
         "certifications": [
             {
                 "name": "Certification 1",
-                "image": "certifications/null.jpg"
+                "image": "certifications/p1.jpg"
             },
             {
                 "name": "Certification 2",
-                "image": "certifications/null.jpg"
+                "image": "certifications/p2.jpg"
             },
             {
                 "name": "Certification 3",
-                "image": "certifications/null.jpg"
+                "image": "certifications/p3.jpg"
             },
             {
                 "name": "Certification 4",
-                "image": "certifications/null.jpg"
+                "image": "certifications/p4.jpg"
             }
         ],
         "extracurricularActivities": {
@@ -1391,46 +1391,46 @@
                 {
                 "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/p5.jpg"
                 },
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/p6.jpg"
                 }
             ],           "onlineCertifications": [
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/p7.jpg"
                 }
             ],
             "sports": [
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/p4.jpg"
                 }
             ],
             "symposiums": [
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/p2.jpg"
                 }
             ],
             "Internship": [
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/p1.jpg"
                 }
             ],
             "Needed": [
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/p3.jpg"
                 },
                 {
                     "name": "Needed",
@@ -1473,7 +1473,7 @@
             },
             {
                 "name": "Certification 4",
-                "image": "certifications/null.jpg"
+                "image": "certifications/sak4.jpg"
             }
         ],
         "extracurricularActivities": {
@@ -1499,7 +1499,7 @@
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/sak4.jpg"
                 }
             ],
             "symposiums": [
@@ -1532,7 +1532,7 @@
     },
     {
         "id": 18,
-        "name": "Sri Mathi",
+        "name": "Sri Mathi R",
         "education": "Engineering",
         "Academic Performance": "Good",
         "Semester1": 6.5,
@@ -1546,7 +1546,7 @@
         "10th_percentage": 73,
         "12th_percentage": 84,
         "skills": "Basic excel, Python , C , Poster Designing",
-        "contact": "priyapriya58675@gmail.com",
+        "contact": "Srimathi-srimathirekha19@gmail.com",
         "image": "images/sri.png",
         "certifications": [
             {
@@ -1735,15 +1735,15 @@
             },
             {
                 "name": "Certification 2",
-                "image": "certifications/null.jpg"
+                "image": "certifications/sri2.jpg"
             },
             {
                 "name": "Certification 3",
-                "image": "certifications/null.jpg"
+                "image": "certifications/sri5.jpg"
             },
             {
                 "name": "Certification 4",
-                "image": "certifications/null.jpg"
+                "image": "certifications/sri4.jpg"
             }
         ],
         "extracurricularActivities": {
@@ -1756,34 +1756,34 @@
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/sri3.jpg"
                 }
             ],           "onlineCertifications": [
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/sri4.jpg"
                 }
             ],
             "sports": [
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/sri3.jpg"
                 }
             ],
             "symposiums": [
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/sri2.jpg"
                 }
             ],
             "Internship": [
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/sri1.jpg"
                 }
             ],
             "Needed": [
@@ -2356,7 +2356,7 @@
         "10th_percentage": 89,
         "12th_percentage": 90,
         "skills": "Python programming,C language, Poster Editing, learning ",
-        "contact": "ishwaryaraghu11103@gmail.com",
+        "contact": "thrishaj4@gmail.com",
         "image": "images/tri.png",
         "certifications": [
             {
@@ -3077,7 +3077,7 @@
         "12th_percentage": 88.92,
         "skills": "Content writing, Python, C Language",
         "contact": "subhashininagesh270@gmail.com",
-        "image": "images/su.png",
+        "image": "images/su1.png",
         "certifications": [
             {
                 "name": "Certification 1",
@@ -3526,7 +3526,7 @@
         "10th_percentage": 84.6,
         "12th_percentage": 86.7,
         "skills": "Python, C-Language, Content Writing, Artist,Good in singing, Graphic-Designer",
-        "contact": "pmsanthosh1611@gmail.com",
+        "contact": "sanjanaumakam@gmail.com",
         "image": "images/saj.png",
         "certifications": [
             {
@@ -5172,6 +5172,276 @@
                     "name": "",
                     "description": "",
                     "image": "certifications/ab9.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 61,
+        "name": "Sornasri M",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.98,
+        "Semester2": 7.96,        
+        "Semester3": 8.04,
+        "Semester4": 8.5,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 86,
+        "12th_percentage": 89.5,
+        "skills": "Solving problems on optical illusions",
+        "contact": "sornasriece@gmail.com",
+        "image": "images/sor.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/sor1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/sor2.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/sor3.jpg"
+            },
+            {
+                "name": "Certification 4",
+                "image": "certifications/ab11.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/sor3.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/sor2.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/sor1.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 62,
+        "name": "Subramaniyajothi S ",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 8.00,
+        "Semester2": 7.913,        
+        "Semester3": 7.833,
+        "Semester4": 8.1,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 74,
+        "12th_percentage": 87,
+        "skills": "Python coding,HTML,java",
+        "contact": "subramaniyajothi2002@gmail.com",
+        "image": "images/sj.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/sj1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 4",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
+    },
+    {
+        "id": 63,
+        "name": "SRIDEVI",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 7.000,
+        "Semester2": 7.565,        
+        "Semester3": 8.12,
+        "Semester4": 8.4,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 74,
+        "12th_percentage": 87,
+        "skills": "Python coding,HTML,java",
+        "contact": "bhuvanakumar39@gmail.com",
+        "image": "images/sr.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 4",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
                 }
             ],
             "Needed": [
