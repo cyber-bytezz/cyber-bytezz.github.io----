@@ -5097,5 +5097,95 @@
                 }
             ]
         }
+    },
+    {
+        "id": 60,
+        "name": "Abishek Bala B",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 8.250,
+        "Semester2": 8.261,        
+        "Semester3": 8.2,
+        "Semester4": 8.91,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 89.6,
+        "12th_percentage": 91.87,
+        "skills": "Drawing, volunteering, basic problem solving skills, Python",
+        "contact": "nandhinid152@gmail.com",
+        "image": "images/n.png",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/ab1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/ab2.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/ab3.jpg"
+            },
+            {
+                "name": "Certification 4",
+                "image": "certifications/ab11.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/ab4.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/ab5.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/ab6.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/ab7.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/ab8.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/ab9.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
     }
 ]
