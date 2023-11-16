@@ -4071,19 +4071,19 @@
         "certifications": [
             {
                 "name": "Certification 1",
-                "image": "certifications/null.jpg"
+                "image": "certifications/pk3.jpg"
             },
             {
                 "name": "Certification 2",
-                "image": "certifications/null.jpg"
+                "image": "certifications/pk2.jpg"
             },
             {
                 "name": "Certification 3",
-                "image": "certifications/null.jpg"
+                "image": "certifications/pk6.jpg"
             },
             {
                 "name": "Certification 4",
-                "image": "certifications/null.jpg"
+                "image": "certifications/pk8.jpg"
             }
         ],
         "extracurricularActivities": {
@@ -4091,46 +4091,46 @@
                 {
                 "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/pk1.jpg"
                 },
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/pk4.jpg"
                 }
             ],           "onlineCertifications": [
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/pk7.jpg"
                 }
             ],
             "sports": [
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/pk8.jpg"
                 }
             ],
             "symposiums": [
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/pk3.jpg"
                 }
             ],
             "Internship": [
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/pk2.jpg"
                 }
             ],
             "Needed": [
                 {
                     "name": "",
                     "description": "",
-                    "image": "certifications/null.jpg"
+                    "image": "certifications/pk5.jpg"
                 },
                 {
                     "name": "Needed",
