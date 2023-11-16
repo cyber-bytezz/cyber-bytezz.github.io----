@@ -5907,5 +5907,95 @@
                 }
             ]
         }
+    },
+    {
+        "id": 69,
+        "name": "Dharshini",
+        "education": "Engineering",
+        "Academic Performance": "Good",
+        "Semester1": 8.5,
+        "Semester2": 7.5,        
+        "Semester3": 8.4,
+        "Semester4": 7.9,
+        "Semester5": null,
+        "Semester6": null,
+        "Semester7": null,
+        "Semester8": null,
+        "10th_percentage": 94,
+        "12th_percentage": 89,
+        "skills": "Basic python,Arduino board , Basic C and data structures, Linux and windows",
+        "contact": "dharshiniyaso@gmail.com",
+        "image": "images/dr.jpg",
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "image": "certifications/dr1.jpg"
+            },
+            {
+                "name": "Certification 2",
+                "image": "certifications/dr2.jpg"
+            },
+            {
+                "name": "Certification 3",
+                "image": "certifications/null.jpg"
+            },
+            {
+                "name": "Certification 4",
+                "image": "certifications/null.jpg"
+            }
+        ],
+        "extracurricularActivities": {
+            "achievements": [
+                {
+                "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                },
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],           "onlineCertifications": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "sports": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "symposiums": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Internship": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/null.jpg"
+                }
+            ],
+            "Needed": [
+                {
+                    "name": "",
+                    "description": "",
+                    "image": "certifications/.jpg"
+                },
+                {
+                    "name": "Needed",
+                    "description": "Description for new activity 2.",
+                    "image": "certifications/"
+                }
+            ]
+        }
     }
 ]
